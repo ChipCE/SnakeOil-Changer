@@ -1,2 +1,2 @@
 # SnakeOil-Changer
-Toolchanger concept using off the shell parts
+Heavy duty belt-driven flying gantry toolchanger platform utilizes [Extended coreXY kinematic](https://github.com/SnakeOilXY/klipper-extended-corexy-kinematic)
